@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 # Halo semua! 
 
 Perkenalkan nama saya **Muhammad Hafiz Fadlillah**.
+
 Saya seorang **Undergraduate Student** di [Universitas Al-Azhar Indonesia](https://www.uai.ac.id/).
+
 Saya memiliki seritifkasi[sertifikasi FE Expert dari Dicoding](https://www.dicoding.com/certificates/72ZDE6Y16PYW) sejak 2021.
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-hafiz-095417202//)ku ya.
