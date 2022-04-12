@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Muhammad Hafiz Fadlillah**.\
 
-Saya seorang **Undergraduate Student** di [Universitas Al-Azhar Indonesia](https://www.uai.ac.id/).\
+Saya seorang **Undergraduate Student** di [Universitas Al-Azhar Indonesia](https://www.uai.ac.id/).
 
 
-Saya memiliki seritifkasi[sertifikasi FE Expert dari Dicoding](https://www.dicoding.com/certificates/72ZDE6Y16PYW) sejak 2021.\
+Saya memiliki seritifkasi[sertifikasi FE Expert dari Dicoding](https://www.dicoding.com/certificates/72ZDE6Y16PYW) sejak 2021.
 
 
 
