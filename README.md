@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Halo World! 
 
-Hai, My Name is **uhammad Hafiz Fadlillah**.
+Hai, My Name is **Muhammad Hafiz Fadlillah**.
 
 Final Year Student @ [Universitas Al-Azhar Indonesia](https://www.uai.ac.id/).
 
