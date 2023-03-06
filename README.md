@@ -24,4 +24,4 @@ Powered by [FE Expert Sertification by Dicoding](https://www.dicoding.com/certif
 
 Current Crafting using [react.js](https://reactjs.org/) 
 
-Interested ? Checkout ->> [Linkedin](https://www.linkedin.com/in/muhammad-hafiz-095417202//)ku ya.
+Interested ? Checkout ->> [Linkedin](https://www.linkedin.com/in/muhammad-hafiz-095417202//)
