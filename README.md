@@ -24,7 +24,7 @@ Powered by [FE Expert Sertification by Dicoding](https://www.dicoding.com/certif
 
 Currently App Crafting  using [next.js](https://nextjs.org/) 
 
-upskilling with with [asterisk](https://www.asterisk.org/) 
+upskilling with [asterisk](https://www.asterisk.org/) 
 
 
 Interested ? Checkout ->> [Linkedin](https://www.linkedin.com/in/muhammad-hafiz-095417202//)
